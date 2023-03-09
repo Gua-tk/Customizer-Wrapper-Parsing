@@ -1,0 +1,338 @@
+ada:gnatGps
+administration:trello
+album:shotwell
+aliases:a checkout clean
+alsa:audacity
+android:studio
+animation:blender blender
+APIRest:postman
+apt:upgrade
+arcade:pacman
+Art:gimp
+attack:aircrackng
+audio:ardour ardour audacity audacity pulseaudio
+Audio:vlc
+audioServer:pulseaudio
+audit:wireshark
+automation:ansible ant
+automatization:gradle
+backup:clonezilla dropbox
+bash:b branch brasero c d dbeaver EFunction e evolution FFunction f p vommit
+bashFunction:z
+bashfunctions:a add alert BFunction b bashcolors branch brasero c clean converters dbeaver EFunction e emojis evolution FFunction f fastcommands h historyoptimization i ipe ipi ips j k LFunction l loc p prompt s sherlock shortcuts templates u vommit
+bashFunctions:x
+bashrc:BFunction bashcolors
+Blank:caffeine
+Broadcast:vlc
+browser:firefox chrome gpaint tor u
+c:cmake gnatGps
+C:gcc
+calculator:calculator
+calls:skype
+camera:shotwell
+cameras:shotwell
+Capture:vlc
+cards:aisleriot
+cardsgame:aisleriot
+cg:blender
+changeFonts:systemFonts
+chat:firc telegram
+chemistry:iqmol
+chess:chess
+client:ssh
+clipboard:copyq
+cloud:anydesk dropbox dropbox megasync
+CMS:drupal
+code:code codium pluma
+codeEvaluation:sonarqube
+collaboration:dropbox
+color:bashcolors
+command:terminator
+commandline:terminator
+communication:zoom
+concentration:ghostwriter
+containerization:docker
+control:anydesk git vncviewer
+controlPanel:sysmontask
+convert:converters
+crop:shotwell
+customDesktop:a add aisleriot alert ant anydesk aspell audacity AutoFirma BFunction b bashcolors branch c caffeine calibre changebg cheat checkout cheese chess clean clementine clion clone clonezilla cmake cmatrix code codeblocks commit config converters copyq curl customizer customizerGUI d dconfEditor dia discord docker drive dropbox EFunction e eclipse emojis FFunction f fastcommands fdupes fetch ffmpeg filezilla firefox gcc geogebra ghostwriter gimp git gitcm github githubDesktop gitk gitPristine gitprompt calculator mahjongg mines sudoku terminal tweaks go chrome gpaint gparted gradle guake gvim h handbrake hard hardinfo historyoptimization i ideac ideau inkscape ipe ipi ips iqmol j java jupyterLab k keep keyboardFix LFunction l latex libreoffice loc lolcat megasync meld mendeley merge mvn nano nemo netflix netTools nmap nodejs notflix obsStudio octave okular onedrive opensshServer outlook overleaf p parallel pdfgrep pluma postman prompt psql pull push pycharm pycharmpro pypy3 python3 pytorch R remmina rstudio rsync rust s scala scilab screenshots sherlock shortcuts shotcut shotwell skype slack sonarqube sonicPi soundcloud spotify ssh status steam studio sublime synaptic systemFonts teamviewer teams telegram templates terminalBackground thunderbird tmux tor transmission u uget upgrade virtualbox vlc vncviewer vommit wikit wireshark x xclip youtubeDL z zoom
+Customizable:nedit
+customization:terminalBackground
+cycles:blender
+Database:dbeaver
+DAW:ardour
+DB2:dbeaver
+deployment:ansible ant apache2 aspell
+design:freecad gimp gimp inkscape
+dev:clion ideac ideau meld pycharm pycharmpro studio sublime
+develop:cheat
+developing:dart gradle
+development:ansible ant apache2 aspell cmake code codeblocks codium customizer customizerGUI docker drupal eclipse flutter ideac ideau java meld mvn pycharm pycharmpro
+Dictionary:aspell
+diff:meld
+digitalsign:AutoFirma
+disk:clonezilla
+distraction:ghostwriter
+document:ghostwriter latex
+Documentation:aspell
+dots:pacman
+download:uget uget youtubeDL
+downloader:axel
+downloadManager:uget
+drive:mdadm
+drives:clonezilla
+duplication:fdupes
+DVD:vlc
+echempad:mvn
+edit:shotwell
+editing:blender shotcut
+editor:audacity dconfEditor ghostwriter gnatGps ideac ideau latex nano nedit notepadqq pluma pluma pycharm pycharmpro shotcut
+Editor:geany notepadqq
+editVideo:shotcut
+Education:aspell
+email:gmail thunderbird
+E-mail:thunderbird
+Email:thunderbird
+emojis:emojis
+encoder:ffmpeg
+engine:blender blender
+enhance:shotwell
+environment:customizer customizerGUI
+explorer:nemo
+export:shotwell
+facebook:shotwell
+fast:fastcommands
+Feed:thunderbird
+file:dropbox
+file_hostig:dropbox
+files:fdupes nautilus pluma uget
+filesystem:nemo
+FileTools:aspell
+filetransfer:uget
+film:netflix
+flickr:shotwell
+focused:ghostwriter
+folders:nemo
+forum:reddit
+ftp:filezilla
+fullscreen:ghostwriter
+FX:blender
+gallery:shotwell
+game:aisleriot blender chess mahjongg mines sudoku tweaks
+games:pacman steam
+geogebra:geogebra gitcm
+GeoGebra:geogebra gitcm
+ghosts:pacman
+GIMP:gimp
+git:add commit git githubDesktop gitk gitPristine gitprompt merge pull push
+gitbashfunctions:add branch brasero checkout clone commit config d dbeaver fetch gitprompt hard merge pull push status
+gitFunctions:gitPristine
+git-user-configuration:config
+gnome:chess calculator mahjongg mines sudoku tweaks
+gnu:octave parallel
+GNU:customizer customizerGUI gcc
+google:documents drive forms presentation spreadsheets traductor
+graph:dia
+graphic:gimp
+graphical:studio
+graphics:inkscape
+hardware:hardinfo
+highlighting:pluma
+history:copyq
+hosting:megasync
+Humanities:aspell
+ide:gnatGps studio
+IDE:clion dbeaver eclipse ideac ideau pycharm pycharmpro
+illustration:gimp
+image:shotwell
+images:shotwell
+import:shotwell
+info:a alert cheat converters d emojis FFunction f h hardinfo i ipe ipi ips j LFunction l loc p prompt
+instantmessaging:firc
+internet_shortcuts:documents drive duckduckgo facebook forms github gitlab gmail google googlecalendar instagram keep netflix outlook overleaf presentation reddit soundcloud spreadsheets traductor trello tumblr twitch twitter whatsapp wikipedia youtube youtubeMusic
+iochem:onedrive
+irc:firc
+jack:audacity
+jackd:ardour
+java:ideac ideau
+javascript:nodejs
+JDBC:dbeaver
+jupyter:jupyterLab
+KeychronK8:keyboardFix
+ladspa:ardour
+lamp:php phppgadmin
+language:julia latex nodejs python3
+languages:carbonLang
+latex:latex
+LaTeX:overleaf
+level:pacman
+lv2:ardour
+magnet:transmission
+mahjongg:mahjongg
+mail:thunderbird
+management:upgrade
+manager:uget
+MariaDB:dbeaver
+Markdown:ghostwriter
+MATE:pluma
+Math:scilab
+matlab:matlab
+matrix:cmatrix
+media:ffmpeg
+meetings:teams
+merge:meld
+Messaging:discord
+microsoft:code codium
+midi:ardour
+mines:mines
+modeling:blender
+molecules:iqmol
+moleculeVisualizer:iqmol
+movies:notflix
+multiple:pluma
+multiplexor:tilix
+multitrack:ardour
+music:ardour audacity clementine sonicPi soundcloud spotify
+musicProduction:lmms rosegarden
+MySQL:dbeaver
+network:aircrackng axel chrome gpaint ipe ipi ips netTools telegram vncviewer wireshark
+Newsgroup:thunderbird
+notification:alert
+notify:alert
+npm:nodejs
+Numerical:scilab
+ODBC:dbeaver
+office:calibre libreoffice
+Office:aspell
+online:obsStudio
+oracle:virtualbox
+Oracle:dbeaver
+organize:shotwell
+packageManager:nodejs synaptic
+pacman:pacman
+painting:blender gimp
+palette:terminalBackground
+parallel:parallel
+Partition:gparted
+paste:xclip
+pdf:okular pdfgrep
+pgadmin:pgadmin
+photo:cheese shotwell
+photographs:shotwell
+photography:shotwell
+photoOrganizer:shotwell
+photos:shotwell
+picasa:shotwell
+picture:shotwell
+pictures:shotwell
+piwigo:shotwell
+Plaintext:notepadqq
+Player:vlc
+pluggable:pluma
+portScanning:nmap
+postGreSQL:psql
+PostgreSQL:dbeaver
+Power:caffeine
+Powerful:nedit
+presentation:presentation
+print:shotwell
+producing:audacity
+production:ardour
+profile:BFunction
+programming:clion dart eclipse flutter gradle ideac ideau java meld pycharm pycharmpro sonicPi studio
+prompt:terminator
+publish:shotwell
+python:blender pycharm pycharmpro
+python3:pypy3
+pytorch:pytorch
+R:R
+raid:mdadm
+reference:mendeley
+relational:dia
+remote:anydesk ssh teamviewer vncviewer
+remoteDesktop:remmina
+render:blender
+rendering:blender
+research:mendeley
+reverseShell:ncat
+revision:git
+rotate:shotwell
+RSS:thunderbird
+rstudio:rstudio
+rsync:rsync
+rust:rust
+Saving:caffeine
+scala:scala
+science:scilab
+Screensaver:caffeine
+screenshot:screenshots
+screenshotKeybindings:screenshots
+scripts:cheat
+Scripts:nedit
+sculpting:blender
+search:duckduckgo gitlab go google googlecalendar instagram keep outlook
+searchPDF:pdfgrep
+security:aircrackng tor wireshark
+server:opensshServer tomcat
+Server:vlc
+sessions:tmux
+settings:dconfEditor
+share:shotwell
+sharing:dropbox
+shell:ssh terminator
+shortcuts:clean
+Simulation:scilab
+social:firc facebook telegram zoom
+Social:discord
+sound:ardour audacity
+spreadsheets:spreadsheets
+SQL:dbeaver
+storage:dropbox
+strategy:chess mahjongg mines sudoku tweaks
+stream:obsStudio spotify
+streaming:notflix twitch vlc
+studio:clion studio sublime
+sublime:sublime
+sudoku:sudoku
+sync:rsync
+synchronization:dropbox
+system:docker j k l loc lolcat upgrade
+tabs:pluma
+tags:shotwell
+team:slack
+television:netflix
+terminal:changebg cheat cmatrix curl firc fastcommands fetch gitPristine terminal guake gvim h handbrake hard historyoptimization i ipe ipi ips j k LFunction l loc lolcat prompt s status templates terminalBackground terminator tmux x z
+text:ideac ideau pluma pycharm pycharmpro sublime
+Text:geany notepadqq
+text_editor:ghostwriter overleaf
+TextEditor:geany
+texturing:blender
+torrent:notflix transmission
+tracking:blender
+traductor:traductor
+Translation:aspell
+tweaks:tweaks
+update:upgrade
+upgrade:upgrade
+utility:changebg cheat guake gvim handbrake z
+Utility:aspell
+version:git
+video:blender blender cheese ffmpeg shotcut shotwell youtubeDL
+Video:vlc
+videoCalls:zoom
+videoEdit:shotcut
+viewer:okular
+VoiceChat:discord
+web:curl drupal tomcat tor u
+webcam:cheese
+webProgramming:flutter
+wikipedia:wikit
+WordProcessor:aspell
+Write:notepadqq
+writer:ghostwriter
+writing:ghostwriter
+xampp:php phppgadmin
+youtube:shotwell
+3d:blender iqmol
+3D:blender freecad

@@ -1,0 +1,104 @@
+Accessibility:anydesk vncviewer
+Application:AutoFirma skype thunderbird
+ArcadeGame:pacman
+Art:blender gimp
+Audio:ardour audacity clementine lmms pulseaudio rosegarden spotify vlc
+AudioVideo:ardour audacity clementine lmms notflix vlc youtubeDL zoom
+AudioVideoEditing:audacity handbrake
+Backup:clonezilla
+BoardGame:chess chess mahjongg mahjongg mines mines sudoku sudoku
+Boot:clonezilla
+Building:ant julia
+Calculator:geogebra gitcm calculator
+Calendar:alert googlecalendar instagram
+CardGame:aisleriot
+Chat:facebook reddit skype teams telegram twitter whatsapp
+CMS:drupal
+Communication:firc
+ComputerScience:ansible ideac ideau julia pycharm pycharmpro
+ConsoleOnly:cheat clonezilla cmatrix firc gitprompt julia mvn nano netTools nmap notflix opensshServer sherlock ssh
+Core:nautilus nemo
+Database:psql
+DataVisualization:geogebra gitcm julia
+Debugger:ideac ideau pycharm pycharmpro
+DesktopSettings:dconfEditor
+Development:aircrackng ansible ant apache2 clion cmake code codeblocks codium customizer customizerGUI dbeaver dia eclipse flutter geany gnatGps gradle ideac ideau java julia jupyterLab meld nodejs notepadqq postman pycharm pycharmpro pypy3 sonarqube studio sublime tomcat
+Dictionary:aspell
+DiscBurning:brasero
+Documentation:documents drive forms google keep overleaf presentation spreadsheets wikipedia
+Education:mendeley wikit zoom
+Email:gmail outlook thunderbird
+Engineering:freecad
+Feed:facebook tumblr twitter
+FileManager:filezilla
+Filesystem:clonezilla rsync
+FileSystem:gparted
+FileTransfer:anydesk axel dropbox steam uget
+FlowChart:dia documents
+Game:aisleriot chess mahjongg mines sudoku pacman steam
+Geometry:geogebra gitcm
+GNOME:AutoFirma chess dconfEditor dia firefox calculator mahjongg mines sudoku terminal tweaks gparted guake shotwell slack terminator
+Graphics:blender dia freecad gimp gpaint inkscape R shotwell
+GTK:chess codeblocks firefox geany gimp calculator mahjongg mines sudoku terminal tweaks guake inkscape meld nemo pluma shotwell slack synaptic terminator
+HardwareSettings:hardinfo
+IDE:clion codeblocks codium dbeaver eclipse geany gnatGps ideac ideau jupyterLab octave pycharm pycharmpro studio sublime
+ImageProcessing:blender
+Images:clonezilla
+InstantMessaging:discord firc facebook reddit skype slack twitter whatsapp
+IRCClient:firc
+Java:mvn studio
+KDE:copyq
+Languages:aspell carbonLang dart go java julia nodejs octave php phppgadmin python3 R rust scala sonicPi
+Literature:mendeley
+LogicGame:chess mahjongg mines sudoku
+Math:geogebra gitcm calculator julia R scilab
+Midi:lmms
+Monitor:ansible vncviewer wireshark
+Motif:nedit
+Music:ardour audacity clementine rosegarden sonicPi soundcloud spotify vlc youtubeMusic
+Network:aircrackng anydesk discord dropbox filezilla firefox chrome ncat netTools nmap opensshServer pgadmin pytorch rstudio skype slack ssh steam teamviewer teams telegram thunderbird tomcat tor u uget vncviewer wireshark zoom
+NumericalAnalysis:julia
+Office:AutoFirma calibre documents ghostwriter latex libreoffice okular outlook overleaf spreadsheets teams
+P2P:anydesk transmission
+PackageManager:customizer customizerGUI mvn synaptic
+ParallelComputing:julia
+Photography:shotwell
+Player:clementine netflix soundcloud vlc
+Programming:customizerGUI
+ProjectManagement:ansible drive overleaf presentation teams trello
+Publishing:latex
+Qt:clementine copyq ghostwriter latex lmms mendeley wireshark
+RasterGraphics:gimp gpaint
+Recorder:obsStudio vlc
+RemoteAccess:anydesk remmina ssh teamviewer vncviewer
+Restoration:clonezilla
+RevisionControl:git github githubDesktop gitk gitlab
+Science:freecad iqmol julia matlab R scilab
+Security:aircrackng
+Settings:aspell caffeine changebg customizer customizerGUI dconfEditor mdadm opensshServer synaptic sysmontask
+Shell:ssh
+Spreadsheet:spreadsheets
+System:a add aircrackng alert aspell BFunction b bashcolors branch brasero c caffeine changebg checkout clean clone clonezilla commit config converters curl customizer customizerGUI d dconfEditor docker EFunction e emojis evolution FFunction f fastcommands fdupes fetch gcc gparted gradle guake h hard hardinfo historyoptimization i ipe ipi ips j k LFunction l loc lolcat merge onedrive p prompt pull pulseaudio push s sherlock shortcuts status synaptic systemFonts templates terminator tmux tomcat u upgrade virtualbox vommit x z
+Terminal:cheat gitPristine terminalBackground
+TerminalEmulator:guake terminator tilix
+TextEditor:ghostwriter gvim nano nedit notepadqq overleaf pluma presentation
+TextTools:nedit
+Translation:aspell traductor
+TrayIcon:caffeine
+Utility:a add aircrackng alert ant axel BFunction b bashcolors branch brasero c caffeine changebg cheat checkout clean clone clonezilla cmake code commit config converters copyq curl customizer customizerGUI d dconfEditor docker EFunction e emojis evolution FFunction f fastcommands fdupes fetch ffmpeg gcc gitPristine gradle guake gvim h hard hardinfo historyoptimization i ipe ipi ips j k keyboardFix LFunction l loc lolcat mendeley merge nano nautilus nedit nemo notepadqq obsStudio onedrive p parallel pdfgrep pluma prompt pull push rsync s screenshots sherlock shortcuts sonarqube status systemFonts templates terminator tmux tomcat u upgrade vncviewer vommit x xclip z
+VectorGraphics:inkscape
+Video:blender cheese handbrake shotcut youtube
+VideoConference:twitch youtube
+VideoEdit:shotcut
+Viewer:geogebra gimp gitcm okular shotwell vncviewer
+Visualization:iqmol
+Web:drupal eclipse
+WebBrowser:documents duckduckgo firefox chrome tor u
+WebDevelopment:apache2 drupal eclipse flutter gradle ideac ideau pycharm pycharmpro studio
+WordProcessor:documents ghostwriter
+X-Mandriva-Office-Publishing:latex
+X-Misc:latex
+X-SuSE-Core-Office:latex
+2DGraphics:blender gimp gpaint
+3D:freecad
+3DGraphics:blender
