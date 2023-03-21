@@ -1,10 +1,14 @@
+import os
+
+
+# Receives the name of the filename to write to, the element_list, which will be a list of tags or systemCategories that
+# will be written as the columns and a dictionary, which contains the membership of each feature to tags or wrapper.
+# Those elements are used to create a csv file that displays a matrix easily parsable.
 def create_csv(filename, features_to_element, elements_list):
-    # Open the CSV file in write mode and create a CSV writer object
     with open(filename, "w+", newline='') as fp:
         fp.write("," + ",".join(elements_list) + "\n")
         for item in features_to_element.keys():
             fp.write(item + ",")
-            element_column = 0
             for elem in elements_list:
                 if elem in features_to_element[item]:
                     fp.write("true,")
